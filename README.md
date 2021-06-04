@@ -27,8 +27,5 @@
   - Ploting Tesla Stock Graph
   - Ploting GameStop Stock Graph
 
-## Final Project :
-  [Extracting-and-Visualizing-Stock-Data-Using-Python.pdf](https://github.com/nikhil-jnn/Extracting-and-Visualizing-Stock-Data-Using-Python/files/6598270/Extracting-and-Visualizing-Stock-Data-Using-Python.pdf)
-
-
-
+![Graph1](https://user-images.githubusercontent.com/83585688/120799234-1b437180-c55c-11eb-9c13-1a793b0dc618.png)
+![Graph 2](https://user-images.githubusercontent.com/83585688/120799245-1e3e6200-c55c-11eb-80b0-8185271f9ee4.png)
