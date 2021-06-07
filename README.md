@@ -27,5 +27,19 @@
   - Ploting Tesla Stock Graph
   - Ploting GameStop Stock Graph
 
+## Libraries Used during the Project:
+![image](https://user-images.githubusercontent.com/83585688/120998472-c135ec80-c7a5-11eb-8443-c796d5ec314f.png)
+
+## Using Yfinance Library to extract Stock Data:
+![image](https://user-images.githubusercontent.com/83585688/120998640-e591c900-c7a5-11eb-8aeb-8ca1ad42f3bc.png)
+
+## Using Webscraping to Extract GME Revenue Data:
+![image](https://user-images.githubusercontent.com/83585688/120998733-fc382000-c7a5-11eb-9154-eaf0ff9fdba1.png)
+
+
+
+### Plot Tesla Stock Graph
 ![Graph1](https://user-images.githubusercontent.com/83585688/120799234-1b437180-c55c-11eb-9c13-1a793b0dc618.png)
+
+### Plot GameStop Stock Graph
 ![Graph 2](https://user-images.githubusercontent.com/83585688/120799245-1e3e6200-c55c-11eb-80b0-8185271f9ee4.png)
